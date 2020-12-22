@@ -40,7 +40,6 @@ cfd531b1d2c89aea763bc5044fca38bd  OpenFM-1.12.2-0.1.0.19.jar
 d49e4034973a38b9a92d1f9939decd70  Pam's+HarvestCraft+1.12.2zf.jar
 f00530b437c41a189dbf8a85d0ac40b6  RedstoneFlux-1.12-2.1.0.6-universal.jar
 0b5e41f29c3ceb1db560531fef9f55a2  refinedstorage-1.6.16.jar
-8b10e7941dff2705b41e2f218ea3b5b4  simpleplanes-1.12.2-3.0.1.7.jar
 b139d2f39a926b26a4c02e67cd54d12c  SteveKunG's-Lib-1.12.2-1.1.9.jar
 755b0c22f356b92ba760b9cd959b8e26  techguns-1.12.2-2.0.2.0_pre3.1.jar
 6c76ff8a9251852d00d9a648e72ad25c  tesla-core-lib-1.12.2-1.0.17.jar
