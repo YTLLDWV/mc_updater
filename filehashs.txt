@@ -46,3 +46,7 @@ b139d2f39a926b26a4c02e67cd54d12c  SteveKunG's-Lib-1.12.2-1.1.9.jar
 da20e4ec485fe0969cffbde0d42c8338  VeinMiner-1.12-0.38.2.647+b31535a.jar
 1b8a438f13dad0c141583a0d1716fcbf  wings-1.1.6-1.12.2.jar
 cc782f73e62792dcdb108449baec110f  zerocore-1.12.2-0.1.2.8.jar
+5e88b6e4939690a2067bf31f870a5577  Computronics-1.12.2-1.6.6.jar
+07e09588a4c30914db061123ff3869ef  ocdevices-MC1.12.2-1.0.0-44.jar
+1da9dd8478ba6d682f2787746776e18a  OpenComputers-MC1.12.2-1.7.5.192.jar
+a290fa8931c7824ea2a3210e6a17ea49  OpenSecurity-1.12.2-1.0-62.jar
